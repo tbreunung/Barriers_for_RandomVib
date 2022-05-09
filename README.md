@@ -4,7 +4,7 @@ Thomas Breunung
 
 Institute for Mechanical Systems, ETH Zürich, Leonhardstrasse 21, 8092 Zürich, Switzerland
 
-Run m-files to reproduce the Figures shown in [1]. The script 'Duffing_barriers.m' analyes the classic Duffing equation and the script 'Duffing4D.m' a higher dimensional extension. Please refer to [1] for more explanations and the underlying theory.
+Run m-files to reproduce the figures shown in [1]. The script 'Duffing_barriers.m' analyes the classic Duffing equation and the script 'Duffing4D.m' a higher dimensional extension. Please refer to [1] for more explanations and the underlying theory.
 
 # Citation
 
